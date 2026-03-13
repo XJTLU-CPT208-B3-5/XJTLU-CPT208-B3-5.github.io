@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#motivation"
 
   services:
-    title: "1. Motivation & Research"
+    title: "Motivation & Research"
     text: "Why we chose this track and what gap we identified"
     section: motivation
     list:
@@ -32,13 +32,13 @@ en: &DEFAULT_EN
         icon: fas fa-users
 
   portfolio:
-    title: "2. User Requirements"
+    title: "User Requirements"
     text: "Understanding our users and their journey"
     section: requirements
     closebutton: "Close Project"
 
   timeline:
-    title: "3. Ideation & Alternatives"
+    title: "Ideation & Alternatives"
     text: "From crazy ideas to final design decisions"
     section: ideation
     # left is the default
@@ -63,7 +63,7 @@ en: &DEFAULT_EN
     end: "From Ideation <br> to Implementation!"
 
   about:
-    title: "4. Technical Implementation"
+    title: "Technical Implementation"
     text: "System architecture and development"
     section: implementation
     body: "System Architecture: Web App data flow diagram | High-Fi Prototype: [yourproject.github.io](#) | Individual Contributions: Team member breakdown"
@@ -116,7 +116,7 @@ en: &DEFAULT_EN
             icon: fab fa-github
 
   contact:
-    title: "5. Evaluation & Reflection"
+    title: "Evaluation & Reflection"
     text: "Usability testing results and social implications"
     section: evaluation
     name: "Name*"
